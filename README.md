@@ -1,5 +1,3 @@
-Welcome to StackEdit!
-===================
 
 # Gavatar
 
